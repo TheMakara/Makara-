@@ -2,7 +2,6 @@
 
 </p>
 <p align="center">
-  <a href="https://discord.com/users/741741833763422299">
     <img src=![image](https://github.com/TheMakara/About/assets/110108211/b3a5a567-0fd3-48d5-83e1-5afd261d119f)
 alt="Discord Profile"/>   
   </a>
